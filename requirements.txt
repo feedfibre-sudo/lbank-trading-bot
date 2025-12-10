@@ -1,0 +1,20 @@
+# Dépendances Python pour le bot de trading LBank
+
+# Requêtes HTTP
+requests>=2.31.0
+
+# Manipulation de données
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Analyse technique (optionnel pour stratégies avancées)
+ta-lib>=0.4.28
+
+# Variables d'environnement
+python-dotenv>=1.0.0
+
+# Logging avancé
+coloredlogs>=15.0.1
+
+# Planification de tâches
+schedule>=1.2.0
